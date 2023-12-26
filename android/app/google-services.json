@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392216479237",
+    "project_id": "bustling-folio-409006",
+    "storage_bucket": "bustling-folio-409006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392216479237:android:8f6ff59849e1c1724ebe6c",
+        "android_client_info": {
+          "package_name": "com.hariapp.educational_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUsAWKWSUS1j5TBh2FYqfp50hLEBC_nME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
